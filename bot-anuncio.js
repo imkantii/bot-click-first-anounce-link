@@ -19,7 +19,7 @@ async function robo() {
     await browser.close();
    },20000);
   }
-  var cont2
+ // var cont2
   //for(cont2=0;cont2<4;cont2++){
     //robo();
   //}
